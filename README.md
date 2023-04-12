@@ -14,4 +14,4 @@ A Simple AutoScrolling Extension for Chrome
 
 ## Screenshot
 
-<img width="1418" alt="image" src="https://raw.githubusercontent.com/prakhar897/Easy-ScrollDown/main/screenshots/1.png">
+<img width="1418" alt="image" src="https://raw.githubusercontent.com/prakhar897/Easy-ScrollDown/main/screenshots/1.PNG">
